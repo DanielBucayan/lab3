@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link rel="stylesheet" href="new_styles.css">
+<?php
+echo link_tag('css/styles.css');
+?>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>My Poetry Collection</title>
 </head>

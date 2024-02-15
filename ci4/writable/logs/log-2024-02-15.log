@@ -206,3 +206,33 @@ The framework needs the following extension(s) installed and loaded: intl.
 #3 {main}
 in SYSTEMPATH\Helpers\number_helper.php on line 137.
  1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-02-15 08:44:04 --> Error: Call to undefined function link_tag()
+in APPPATH\Views\templates\header.php on line 5.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('templates/header', [], true)
+ 4 APPPATH\Controllers\Pages.php(23): view('templates/header', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pages->view('home')
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-15 08:45:43 --> Error: Call to undefined function link_tag()
+in APPPATH\Views\templates\header.php on line 5.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('templates/header', [], true)
+ 4 APPPATH\Controllers\Pages.php(23): view('templates/header', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pages->view('home')
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-15 08:45:45 --> Error: Call to undefined function link_tag()
+in APPPATH\Views\templates\header.php on line 5.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('templates/header', [], true)
+ 4 APPPATH\Controllers\Pages.php(23): view('templates/header', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pages->view('home')
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
