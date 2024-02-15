@@ -1,4 +1,4 @@
-Welcome to my website!<main class="main-container">
+<main class="main-container">
 <section id="intro-section">
 <h2 style="text-align: center;">Welcome to my Poetry Collection!</h2>
 <p><i><b>

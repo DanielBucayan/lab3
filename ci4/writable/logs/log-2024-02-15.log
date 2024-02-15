@@ -246,3 +246,68 @@ in APPPATH\Views\templates\header.php on line 5.
  6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
  7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
  8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-15 09:32:50 --> TypeError: img(): Argument #2 ($indexPage) must be of type bool, array given, called in C:\xampp\htdocs\webprogss221\lab3\ci4\app\Views\pages\about.php on line 5
+in SYSTEMPATH\Helpers\html_helper.php on line 96.
+ 1 APPPATH\Views\pages\about.php(5): img('css/chibi.png', [...])
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\webprogss221\\lab3\\ci4\\app\\Views\\pages\\about.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/about', [], true)
+ 5 APPPATH\Controllers\Pages.php(24): view('pages/about')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pages->view('about')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-15 09:37:39 --> ParseError: syntax error, unexpected identifier "m", expecting "," or ";"
+in APPPATH\Views\pages\about.php on line 10.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/about', [], true)
+ 3 APPPATH\Controllers\Pages.php(24): view('pages/about')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pages->view('about')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-15 09:38:48 --> ParseError: syntax error, unexpected identifier "m", expecting "," or ";"
+in APPPATH\Views\pages\about.php on line 10.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/about', [], true)
+ 3 APPPATH\Controllers\Pages.php(24): view('pages/about')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pages->view('about')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-15 09:38:50 --> ParseError: syntax error, unexpected identifier "m", expecting "," or ";"
+in APPPATH\Views\pages\about.php on line 10.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/about', [], true)
+ 3 APPPATH\Controllers\Pages.php(24): view('pages/about')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pages->view('about')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-15 09:42:00 --> ParseError: syntax error, unexpected identifier "m", expecting "," or ";"
+in APPPATH\Views\pages\about.php on line 10.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/about', [], true)
+ 3 APPPATH\Controllers\Pages.php(24): view('pages/about')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pages->view('about')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-15 09:42:09 --> ParseError: syntax error, unexpected identifier "m", expecting "," or ";"
+in APPPATH\Views\pages\about.php on line 10.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/about', [], true)
+ 3 APPPATH\Controllers\Pages.php(24): view('pages/about')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pages->view('about')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-02-15 09:42:11 --> ParseError: syntax error, unexpected identifier "m", expecting "," or ";"
+in APPPATH\Views\pages\about.php on line 10.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('pages/about', [], true)
+ 3 APPPATH\Controllers\Pages.php(24): view('pages/about')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Pages->view('about')
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

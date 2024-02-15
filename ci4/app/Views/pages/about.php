@@ -1,7 +1,9 @@
 <main class="about-container">
 <section id="about-section">
 <h2 style="text-align: center;">Get to Know Me More! See What I Have In Store!</h2>
-<img class="about-img" src="Chibi.png" alt="Sample Picture">
+<?php 
+echo '<img src="' . base_url('css/chibi.png') . '" class="about-img">';
+?>
 <div class="about-content">
 <h3 style="text-align: center;">Hello!</h3>
 <p>Meet the man behind the experiences and emotions found in each of the poems you 
