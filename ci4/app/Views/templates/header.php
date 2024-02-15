@@ -15,13 +15,11 @@ echo link_tag('css/styles.css');
 <h1 class="intro-title">My Poetry Collection</h1>
 <nav>
 <ul class="nav">
-<li class="nav-buttons"><a href="index2.php">Home</li></a>
-<li class="nav-buttons"><a href="poems.php">Poems</li></a>
-<li class="nav-buttons"><a href="about.php">About</li></a>
-<li class="nav-buttons"><a href="suggestions.php">Suggestions</li></a>
+<li class="nav-buttons"><a href="home">Home</li></a>
+<li class="nav-buttons"><a href="poems">Poems</li></a>
+<li class="nav-buttons"><a href="about">About</li></a>
+<li class="nav-buttons"><a href="suggestions">Suggestions</li></a>
 </ul>
 </nav>
 </div>
 </header>
-
-<body>
