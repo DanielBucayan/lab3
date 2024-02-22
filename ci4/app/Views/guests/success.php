@@ -1,5 +1,5 @@
 <main class="main-container">
 <section id="intro-section">
-<p>News item created successfully.</p>
+<p>Guest created successfully.</p>
 </section>
 </main>

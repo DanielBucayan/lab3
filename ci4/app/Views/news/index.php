@@ -1,4 +1,6 @@
-<h2><?= esc($title) ?></h2>
+<main class="main-container">
+<section id="intro-section">
+<h2>Suggestions</h2>
 
 <?php if (! empty($news) && is_array($news)): ?>
 
@@ -9,7 +11,7 @@
         <div class="main">
             <?= esc($news_item['body']) ?>
         </div>
-        <p><a href="./news/<?= esc($news_item['slug'], 'url') ?>">View article</a></p>
+        <p><a href="./news/<?= esc($news_item['slug'], 'url') ?>">View suggestions</a></p>
 
     <?php endforeach ?>
 
@@ -20,3 +22,5 @@
     <p>Unable to find any news for you.</p>
 
 <?php endif ?>
+</section>
+</main>

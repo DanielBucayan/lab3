@@ -15,10 +15,10 @@ echo link_tag('css/styles.css');
 <h1 class="intro-title">My Poetry Collection</h1>
 <nav>
 <ul class="nav">
-<li class="nav-buttons"><a href="home">Home</li></a>
-<li class="nav-buttons"><a href="poems">Poems</li></a>
-<li class="nav-buttons"><a href="about">About</li></a>
-<li class="nav-buttons"><a href="suggestions">Suggestions</li></a>
+<li class="nav-buttons"><a href="/webprogss221/lab3/ci4/public/home">Home</li></a>
+<li class="nav-buttons"><a href="/webprogss221/lab3/ci4/public/poems">Poems</li></a>
+<li class="nav-buttons"><a href="/webprogss221/lab3/ci4/public/about">About</li></a>
+<li class="nav-buttons"><a href="/webprogss221/lab3/ci4/public/guests/new">Suggestions</li></a>
 </ul>
 </nav>
 </div>
