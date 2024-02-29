@@ -2,7 +2,7 @@
 <section id="about-section">
 <h2 style="text-align: center;">Get to Know Me More! See What I Have In Store!</h2>
 <?php 
-echo '<img src="' . base_url('css/chibi.png') . '" class="about-img">';
+echo '<img src="' . base_url('css/Chibi.png') . '" class="about-img">';
 ?>
 <div class="about-content">
 <h3 style="text-align: center;">Hello!</h3>
