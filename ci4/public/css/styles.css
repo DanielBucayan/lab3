@@ -107,6 +107,8 @@ a:active {
 	height: auto;
 	display: flex;
 	flex-wrap: wrap;
+	flex-grow: 1;
+	flex-basis: 200;
 }
 
 .poem-container {
