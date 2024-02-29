@@ -33,6 +33,7 @@ document.getElementById("greeting").innerHTML = author.helloGreeting();
 </script>
 
 <main class="featured-poem">
+<section id="poems-read">
 <div>
 <h2 class="poem-title" onclick="togglePoem('endlessHorizon')">Endless Horizon</h2>
 <pre class="poem-content" id="endlessHorizonPoemContent">
@@ -59,5 +60,6 @@ But you've always been far away from me. Maybe that's how it's meant to be.
 And that I can only long for you and wait 'til an apple grows in an orange tree."
       </pre>
     </div>
+	</section>
 </main>
 
