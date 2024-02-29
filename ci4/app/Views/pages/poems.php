@@ -1,4 +1,4 @@
-<main class="poem-container-grid">
+<main class="poem-container">
   <section id="poems-read">
     <div>
       <h2 class="poem-title" onclick="togglePoem('black')">Black</h2>
@@ -28,8 +28,7 @@ Now, because of you, an angel, everything is bright and so heavenly.
   </section>
 </main>
 
-<main class="poem-container-grid">
-  <section id="poems-read">
+<main class="poem-container">
   <div>
     <h2 class="poem-title" onclick="togglePoem('silentThoughts')">Silent Thoughts</h2>
     <pre class="poem-content" id="silentThoughtsPoemContent">
@@ -55,11 +54,9 @@ I guess i'll keep holding on for now. Don't worry, i'll be just fine with my sha
     
     </pre>
   </div>
-   </section>
 </main>
 
-<main class="poem-container-grid">
-  <section id="poems-read">
+<main class="poem-container">
   <div>
     <h2 class="poem-title" onclick="togglePoem('allHadGoneStale')">All Had Gone Stale</h2>
     <pre class="poem-content" id="allHadGoneStalePoemContent">
@@ -85,11 +82,9 @@ Just by holding on tightly on the broken memories that brought happiness at firs
     
     </pre>
   </div>
-   </section>
 </main>
 
-<main class="poem-container-grid">
-  <section id="poems-read">
+<main class="poem-container">
   <div>
     <h2 class="poem-title" onclick="togglePoem('theAuthorBehindTheStory')">The Author Behind The Story</h2>
     <pre class="poem-content" id="theAuthorBehindTheStoryPoemContent">
@@ -114,10 +109,9 @@ Only then it would be clear why you're still going, amidst all the wrongs.
 Your story's a masterpiece in-the-making, and you're the one holding the pen all along.
     </pre>
   </div>
-   </section>
 </main>
 
-<main class="poem-container-grid">
+<main class="poem-container">
   <section id="poems-read">
     <div>
       <h2 class="poem-title" onclick="togglePoem('theMeteorsFault')">The Meteor's Fault</h2>
@@ -146,7 +140,7 @@ It won't be easy, I know. It's like forgetting how gorgeous always is the sunset
   </section>
 </main>
 
-<main class="poem-container-grid-grid">
+<main class="poem-container">
   <section id="poems-read">
     <div>
       <h2 class="poem-title" onclick="togglePoem('endlessHorizon')">Endless Horizon</h2>
