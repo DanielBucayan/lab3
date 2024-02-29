@@ -297,6 +297,35 @@ It won't be easy, I know. It's like forgetting how gorgeous always is the sunset
     </div>
   </section>
 </main>
+
+<main class="poem-container">
+  <section id="poems-read">
+    <div>
+      <h2 class="poem-title" onclick="togglePoem('iWishMyGuitarsBroken')">I Wish My Guitar's Broken</h2>
+      <pre class="poem-content" id="iWishMyGuitarsBrokenPoemContent" style="display: none">
+Driving alone under the night, in a cold, empty street.
+Trying to make my heart forget one of the reason why it beats.
+Passing by the bright city lights.
+Wondering if i'm still alright. 
+
+I wish my guitar's broken, just like my heart,
+For I still write songs about you, even though we're now apart.
+I wish these pages were blank, just like my mind,
+'Cause it's better than looking back at what you left behind. 
+
+The stars, that we used to love, are now scars in my heart.
+The happy chapters before are now the painful parts.
+The magic in my songs suddenly went missing.
+The sunset in the horizon had a whole new different meaning. 
+
+I wish I shouldn't have let you through that door,
+For you have only left me crying a river in the floor.
+So many wishes. So many regrets.
+I wish it's just as easy as how you can forget.
+      </pre>
+    </div>
+  </section>
+</main>
 </div>
 
 <div class ="poems-flex-container">
@@ -326,6 +355,35 @@ on the floor.
 You've somehow resembled everything that I wished to gaze and see,
 But you've always been far away from me. Maybe that's how it's meant to be.
 And that I can only long for you and wait 'til an apple grows in an orange tree."
+      </pre>
+    </div>
+  </section>
+</main>
+
+<main class="poem-container">
+  <section id="poems-read">
+    <div>
+      <h2 class="poem-title" onclick="togglePoem('ifOnly')">If Only</h2>
+      <pre class="poem-content" id="ifOnlyPoemContent" style="display: none">
+I see you, alone and away from the crowd.
+Sadness and emptiness can be heard within you, shouting so loud.
+Unfortunately, no one seems to hear the cries,
+And no one seems to notice the loneliness in your eyes. 
+
+If only there was someone there beside you.
+Maybe the world could've turned into a much better view.
+If only you met them much more sooner,
+Then maybe you wouldn't always see yourself as a stranger. 
+
+If only you knew how to be a bit more social,
+Maybe you could've felt it ahead of time, being someone special.
+If only you weren't too silent,
+Maybe you'll have much more cherishable moments. 
+
+Looking back at that time, where it's so dark and foggy,
+Back when I was a nobody in a crowd full of somebody.
+I have so many regrets and ifs that I wish I could've done.
+But, thinking about it, do I really want to change a single one?
       </pre>
     </div>
   </section>
