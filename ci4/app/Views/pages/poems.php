@@ -64,6 +64,7 @@ remembering.
 
 <div class ="poems-flex-container">
 <main class="poem-container">
+  <section id="poems-read">
   <div>
     <h2 class="poem-title" onclick="togglePoem('silentThoughts')">Silent Thoughts</h2>
     <pre class="poem-content" id="silentThoughtsPoemContent">
@@ -89,6 +90,7 @@ I guess i'll keep holding on for now. Don't worry, i'll be just fine with my sha
     
     </pre>
   </div>
+  </section>
 </main>
 
 <main class="right-container">
@@ -124,6 +126,7 @@ It will suddenly make you wish that you could've done something.
 
 <div class ="poems-flex-container">
 <main class="poem-container">
+  <section id="poems-read">
   <div>
     <h2 class="poem-title" onclick="togglePoem('allHadGoneStale')">All Had Gone Stale</h2>
     <pre class="poem-content" id="allHadGoneStalePoemContent">
@@ -149,6 +152,7 @@ Just by holding on tightly on the broken memories that brought happiness at firs
     
     </pre>
   </div>
+  </section>
 </main>
 
 <main class="right-container">
@@ -199,6 +203,7 @@ And we'll be strangers once again, exhibiting avoidance
 
 <div class ="poems-flex-container">
 <main class="poem-container">
+  <section id="poems-read">
   <div>
     <h2 class="poem-title" onclick="togglePoem('theAuthorBehindTheStory')">The Author Behind The Story</h2>
     <pre class="poem-content" id="theAuthorBehindTheStoryPoemContent">
@@ -223,6 +228,37 @@ Only then it would be clear why you're still going, amidst all the wrongs.
 Your story's a masterpiece in-the-making, and you're the one holding the pen all along.
     </pre>
   </div>
+  </section>
+</main>
+
+<main class="poem-container">
+  <section id="poems-read">
+  <div>
+    <h2 class="poem-title" onclick="togglePoem('aNovelNotSoHappilyEverAfter')">A Novel Not-So-Happily Ever After</h2>
+    <pre class="poem-content" id="aNovelNotSoHappilyEverAfterPoemContent">
+Here I go again, trying my best to write and rhyme.
+Counting one to ten, because you've already wasted my time.
+I remember we were writing an original novel of ours,
+Only for you to leave halfway. Left me alone to finish it with scars. 
+
+Our game of hide and seek became serious. You were gone and I didn't know where you went.
+I tried to seek for the reasons why the exclamation mark somehow got bent. 
+The strong emotions we once felt in the present became our past,
+And it became questions that we never wanted each other to ask. 
+
+The attachment we once adored became a separation that you suddenly wanted.
+The continuous stories of ours; you put a semi-colon just for your wish to be granted.
+The breaks that you needed were given to you, and I had waited for you, my sun, to rise.
+But the comma turned to period, and the wait ended in goodbyes. 
+
+Our story was just starting, yet we ended so quick. 
+It felt like getting hit in the head by a brick.
+It was something I didn't expect. The last thing I wanted - you were just love's cruel trick.
+We were the characters of our own story. We're supposed to live happily ever after in the resolution.
+But I guess you never found it in me: The star to make your world shine, and you forced our novel to a sudden conclusion.
+    </pre>
+  </div>
+  </section>
 </main>
 </div>
 
