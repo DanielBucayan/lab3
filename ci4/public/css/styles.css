@@ -105,6 +105,8 @@ a:active {
 	background-image: url("stillness.png");
 	width: 650px;
 	height: auto;
+	display: flex;
+	flex-wrap: wrap;
 }
 
 .poem-container {
