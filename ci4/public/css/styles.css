@@ -124,8 +124,10 @@ a:active {
 
 .right-side-poems { 
     float: right; /* Position the container to the right */
-    width: 45%;   /* Adjust the width as needed */
-    margin: 20px 10px 20px 50px; /* Adjust margins as desired */
+	background-image: url("stillness.png");
+    width: 650px;   /* Adjust the width as needed */
+	height: auto;
+    margin: 20px 50px 20px 50px; /* Adjust margins as desired */
 }
 
 #poems-collection {
