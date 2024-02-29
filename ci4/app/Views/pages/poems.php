@@ -32,7 +32,7 @@ Now, because of you, an angel, everything is bright and so heavenly.
 <main class="right-container">
   <section id="poems-read">
     <div>
-      <h2 class="poem-title" onclick="togglePoem('black')">Moonlight</h2>
+      <h2 class="poem-title" onclick="togglePoem('moonlight')">Moonlight</h2>
       <pre class="poem-content" id="moonlightPoemContent">
 In the darkest of nights, there will always be lights.
 It may be the city lights, or stars shining so bright.
@@ -94,7 +94,7 @@ I guess i'll keep holding on for now. Don't worry, i'll be just fine with my sha
 <main class="right-container">
   <section id="poems-read">
     <div>
-      <h2 class="poem-title" onclick="togglePoem('black')">Dry Leaves</h2>
+      <h2 class="poem-title" onclick="togglePoem('dryLeaves')">Dry Leaves</h2>
       <pre class="poem-content" id="dryLeavesPoemContent">
 From the roots, it slowly grew.
 Leaves were green, just like how we drew.
