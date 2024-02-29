@@ -32,27 +32,27 @@ Now, because of you, an angel, everything is bright and so heavenly.
 <main class="right-container">
   <section id="poems-read">
     <div>
-      <h2 class="poem-title" onclick="togglePoem('black')">Black</h2>
-      <pre class="poem-content" id="blackPoemContent">
-Black, a shade so mysterious.
-It can be something depressing or something gorgeous.
-Depressing as the heart break from someone you really love,
-Or as gorgeous as the starry night sky above. 
+      <h2 class="poem-title" onclick="togglePoem('black')">Moonlight</h2>
+      <pre class="poem-content" id="moonlightPoemContent">
+In the darkest of nights, there will always be lights.
+It may be the city lights, or stars shining so bright.
+But there's one thing that I have missed for quite some time.
+It's the moonlight that once shone light on me. Hence, I am here to rhyme. 
 
-Black can be quite scary.
-It can resemble the feeling of being so empty.
-The feeling of being all alone,
-And being stuck in a place that is dark and unknown. 
+I remember the past where I always wait for the moonlight's beam.
+Patiently watching it as through my soul it shines and gleams.
+I remember the moon singing me songs and lullabies.
+Completing my every nights amidst all the temporary goodbyes. 
 
-Black also resembles the cold night.
-Welcomes us after a long fight during daylight.
-Greets us with the cold breeze of the wind
-Helps us rest, so that tomorrow we will be, once again, determined. 
+Right now, I haven't gone outside for quite a while.
+I haven't seen the moonlight, even though it's just away for a couple miles.
+The nights have been incomplete since then, with fewer reasons to smile.
+But I am looking forwards to gaze upon the moonlight, for it will be worthwhile. 
 
-Black. Just like my life before I met you.
-Everything's pitch black, can't see any beautiful view.
-It is a good thing that I met you while searching randomly.
-Now, because of you, an angel, everything is bright and so heavenly.
+I might not be outside watching you shine, but know that I always think about you.
+I might not hear your whispers and lullabies, but know that it still plays in my mind, too.
+I might not bear witness to your glory as of now, but know that i'm always cheering.
+I might not be present, but I haven't forgotten the gift that is you, which is worth remembering.
 
 </pre>
     </div>
