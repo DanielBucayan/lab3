@@ -122,6 +122,15 @@ a:active {
 	height: auto;
 }
 
+.poem-container-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* Two equal columns */
+  margin: 20px 50px 20px 50px; /* Adjust margins as needed */
+  background-image: url("stillness.png");
+  width: auto;
+  height: auto;
+  text-align: center;
+}
 
 #poems-collection {
 	margin-top: 30px;
