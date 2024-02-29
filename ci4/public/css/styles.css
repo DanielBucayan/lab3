@@ -122,6 +122,11 @@ a:active {
 	height: auto;
 }
 
+.right-side-poems { 
+    float: right; /* Position the container to the right */
+    width: 45%;   /* Adjust the width as needed */
+    margin: 20px 10px 20px 50px; /* Adjust margins as desired */
+}
 
 #poems-collection {
 	margin-top: 30px;
