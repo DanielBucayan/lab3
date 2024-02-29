@@ -30,7 +30,6 @@ Now, because of you, an angel, everything is bright and so heavenly.
 </main>
 </div>
 
-<div class ="poems-flex-container">
 <main class="right-container">
   <section id="poems-read">
     <div>
@@ -60,7 +59,7 @@ Now, because of you, an angel, everything is bright and so heavenly.
     </div>
   </section>
 </main>
-</div>
+
 
 <div class ="poems-flex-container">
 <main class="poem-container">
