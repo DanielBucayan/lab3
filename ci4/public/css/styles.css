@@ -96,14 +96,20 @@ a:active {
 .main-container {
 	margin: 20px 50px 20px 50px;
 	background-image: url("stillness.png");
-	width: 650px;
+	width: auto;
+	height: auto;
+}
+.featured-poem {
+	margin: 20px 50px 20px 50px;
+	background-image: url("stillness.png");
+	width: auto;
 	height: auto;
 }
 
 .second-container {
 	margin: 20px 50px 20px 50px;
 	background-image: url("stillness.png");
-	width: 650px;
+	width: auto;
 	height: auto;
 }
 
