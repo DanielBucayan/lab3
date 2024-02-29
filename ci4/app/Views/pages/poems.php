@@ -28,8 +28,7 @@ Now, because of you, an angel, everything is bright and so heavenly.
   </section>
 </main>
 
-<div class="right-side-poems">
-<main class="poem-container">
+<div class="poem-flex-container">
   <section id="poems-read">
   <h2 class="poem-title" onclick="togglePoem('endlessHorizon')">Endless Horizon</h2>
       <pre class="poem-content" id="endlessHorizonPoemContent">
