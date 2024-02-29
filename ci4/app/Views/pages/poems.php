@@ -1,33 +1,3 @@
-<main class="poem-container">
-  <section id="poems-read">
-    <div>
-      <h2 class="poem-title" onclick="togglePoem('black')">Black</h2>
-      <pre class="poem-content" id="blackPoemContent">
-Black, a shade so mysterious.
-It can be something depressing or something gorgeous.
-Depressing as the heart break from someone you really love,
-Or as gorgeous as the starry night sky above. 
-
-Black can be quite scary.
-It can resemble the feeling of being so empty.
-The feeling of being all alone,
-And being stuck in a place that is dark and unknown. 
-
-Black also resembles the cold night.
-Welcomes us after a long fight during daylight.
-Greets us with the cold breeze of the wind
-Helps us rest, so that tomorrow we will be, once again, determined. 
-
-Black. Just like my life before I met you.
-Everything's pitch black, can't see any beautiful view.
-It is a good thing that I met you while searching randomly.
-Now, because of you, an angel, everything is bright and so heavenly.
-
-      </pre>
-    </div>
-  </section>
-</main>
-
 <div class ="poems-flex-container">
 <main class="poem-container">
   <section id="poems-read">
@@ -59,36 +29,6 @@ Now, because of you, an angel, everything is bright and so heavenly.
   </section>
 </main>
 </div>
-
-<main class="poem-container">
-  <section id="poems-read">
-    <div>
-      <h2 class="poem-title" onclick="togglePoem('black')">Black</h2>
-      <pre class="poem-content" id="blackPoemContent">
-Black, a shade so mysterious.
-It can be something depressing or something gorgeous.
-Depressing as the heart break from someone you really love,
-Or as gorgeous as the starry night sky above. 
-
-Black can be quite scary.
-It can resemble the feeling of being so empty.
-The feeling of being all alone,
-And being stuck in a place that is dark and unknown. 
-
-Black also resembles the cold night.
-Welcomes us after a long fight during daylight.
-Greets us with the cold breeze of the wind
-Helps us rest, so that tomorrow we will be, once again, determined. 
-
-Black. Just like my life before I met you.
-Everything's pitch black, can't see any beautiful view.
-It is a good thing that I met you while searching randomly.
-Now, because of you, an angel, everything is bright and so heavenly.
-
-      </pre>
-    </div>
-  </section>
-</main>
 
 <div class ="poems-flex-container">
 <main class="poem-container">
@@ -120,36 +60,6 @@ I guess i'll keep holding on for now. Don't worry, i'll be just fine with my sha
 </main>
 </div>
 
-<main class="poem-container">
-  <section id="poems-read">
-    <div>
-      <h2 class="poem-title" onclick="togglePoem('black')">Black</h2>
-      <pre class="poem-content" id="blackPoemContent">
-Black, a shade so mysterious.
-It can be something depressing or something gorgeous.
-Depressing as the heart break from someone you really love,
-Or as gorgeous as the starry night sky above. 
-
-Black can be quite scary.
-It can resemble the feeling of being so empty.
-The feeling of being all alone,
-And being stuck in a place that is dark and unknown. 
-
-Black also resembles the cold night.
-Welcomes us after a long fight during daylight.
-Greets us with the cold breeze of the wind
-Helps us rest, so that tomorrow we will be, once again, determined. 
-
-Black. Just like my life before I met you.
-Everything's pitch black, can't see any beautiful view.
-It is a good thing that I met you while searching randomly.
-Now, because of you, an angel, everything is bright and so heavenly.
-
-      </pre>
-    </div>
-  </section>
-</main>
-
 <div class ="poems-flex-container">
 <main class="poem-container">
   <div>
@@ -180,36 +90,6 @@ Just by holding on tightly on the broken memories that brought happiness at firs
 </main>
 </div>
 
-<main class="poem-container">
-  <section id="poems-read">
-    <div>
-      <h2 class="poem-title" onclick="togglePoem('black')">Black</h2>
-      <pre class="poem-content" id="blackPoemContent">
-Black, a shade so mysterious.
-It can be something depressing or something gorgeous.
-Depressing as the heart break from someone you really love,
-Or as gorgeous as the starry night sky above. 
-
-Black can be quite scary.
-It can resemble the feeling of being so empty.
-The feeling of being all alone,
-And being stuck in a place that is dark and unknown. 
-
-Black also resembles the cold night.
-Welcomes us after a long fight during daylight.
-Greets us with the cold breeze of the wind
-Helps us rest, so that tomorrow we will be, once again, determined. 
-
-Black. Just like my life before I met you.
-Everything's pitch black, can't see any beautiful view.
-It is a good thing that I met you while searching randomly.
-Now, because of you, an angel, everything is bright and so heavenly.
-
-      </pre>
-    </div>
-  </section>
-</main>
-
 <div class ="poems-flex-container">
 <main class="poem-container">
   <div>
@@ -238,36 +118,6 @@ Your story's a masterpiece in-the-making, and you're the one holding the pen all
   </div>
 </main>
 </div>
-
-<main class="poem-container">
-  <section id="poems-read">
-    <div>
-      <h2 class="poem-title" onclick="togglePoem('black')">Black</h2>
-      <pre class="poem-content" id="blackPoemContent">
-Black, a shade so mysterious.
-It can be something depressing or something gorgeous.
-Depressing as the heart break from someone you really love,
-Or as gorgeous as the starry night sky above. 
-
-Black can be quite scary.
-It can resemble the feeling of being so empty.
-The feeling of being all alone,
-And being stuck in a place that is dark and unknown. 
-
-Black also resembles the cold night.
-Welcomes us after a long fight during daylight.
-Greets us with the cold breeze of the wind
-Helps us rest, so that tomorrow we will be, once again, determined. 
-
-Black. Just like my life before I met you.
-Everything's pitch black, can't see any beautiful view.
-It is a good thing that I met you while searching randomly.
-Now, because of you, an angel, everything is bright and so heavenly.
-
-      </pre>
-    </div>
-  </section>
-</main>
 
 <div class ="poems-flex-container">
 <main class="poem-container">
