@@ -110,12 +110,8 @@ a:active {
 .poem-container {
 	margin: 20px 50px 20px 50px;
 	background-image: url("stillness.png");
-	width: 600px;
+	width: 650px;
 	height: auto;
-	display: flex;
-	flex-wrap: wrap;
-	flex-grow: 1;
-	flex-basis: 200;
 }
 
 
