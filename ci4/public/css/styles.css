@@ -127,7 +127,7 @@ a:active {
   display: flex; /* Activate Flexbox mode */
   justify-content: space-between; /* Space items out between the leftmost and rightmost sides */
   align-items: flex-start; /* Align to the top */
-  margin: 20px auto; /* Center horizontally */
+  margin: 10px auto; /* Center horizontally */
 }
 
 #poems-collection {
