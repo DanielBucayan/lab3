@@ -117,7 +117,6 @@ a:active {
 
 .poem-container {
 	margin: 20px 50px 20px 50px;
-	float: left;
 	background-image: url("stillness.png");
 	width: 650px;
 	height: auto;
