@@ -118,7 +118,7 @@ a:active {
 .poem-container {
 	margin: 20px 50px 20px 50px;
 	background-image: url("stillness.png");
-	width: 500px;
+	width: 600px;
 	height: auto;
 }
 
@@ -126,7 +126,7 @@ a:active {
 	margin: 20px 0px 0px 0px;
 	float: right;
 	background-image: url("stillness.png");
-	width: 500px;
+	width: 600px;
 	height: auto;
 }
 	
