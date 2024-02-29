@@ -60,3 +60,14 @@ But, thinking about it, do I really want to change a single one?
     </div>
   </section>
 </main>
+
+<script>
+  function togglePoem(poemId) {
+    var contentElement = document.getElementById(poemId + 'PoemContent');
+    if (contentElement.style.display === '' || contentElement.style.display === 'none') {
+      contentElement.style.display = 'block';
+    } else {
+      contentElement.style.display = 'none';
+    }
+  }
+</script>
