@@ -122,6 +122,15 @@ a:active {
 	height: auto;
 }
 
+.right-container {
+	margin: 20px 0px 0px 0px;
+	float: right;
+	background-image: url("stillness.png");
+	width: 650px;
+	height: auto;
+}
+	
+
 .poems-flex-container {
   display: flex; /* Activate Flexbox mode */
   justify-content: space-between; /* Space items out between the leftmost and rightmost sides */
