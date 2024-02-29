@@ -150,6 +150,51 @@ Just by holding on tightly on the broken memories that brought happiness at firs
     </pre>
   </div>
 </main>
+
+<main class="right-container">
+  <section id="poems-read">
+    <div>
+      <h2 class="poem-title" onclick="togglePoem('waningMemories')">Waning Memories</h2>
+      <pre class="poem-content" id="waningMemoriesPoemContent">
+After a tiring day, I rested in my bed.
+Suddenly, I somehow felt scared.
+Memories just suddenly flooded through my head. 
+The good ones, but also the ones that are almost dead. 
+
+It felt like a ghost beginning to haunt me, 
+Something eerie, and it's keeping me from being free.
+Can't even afford to be a bit more happy, 
+It's filling me with guilt, and starting to make me feel empty. 
+
+It felt like leaves during fall season,
+Or like tearing the pages of our story for no good reason.
+All I can do now is just recall,
+The, once, good memories and our downfall. 
+
+It felt like it was suddenly winter,
+The wind's so cold, it's making me shiver.
+I am longing for our memories' warm embrace,
+It might be fading, but I know no one can replace. 
+
+Even if it hurts, those waning memories,
+I hope it would stay in our minds' galleries.
+I know it's impossible to go back and relive everything,
+I mean, that's life, only change is everlasting.
+
+I tried to reminisce, those waning memories,
+Hoping it could be one of my sadness' remedies.
+But it only added so much pain,
+Because it made me realize that it's now just going down the drain. 
+
+Even if you forget, those waning memories,
+I still wish you the best, fine discoveries.
+I know it will be replaced with new ones,
+And we'll be strangers once again, exhibiting avoidance
+
+</pre>
+    </div>
+  </section>
+</main>
 </div>
 
 <div class ="poems-flex-container">
