@@ -118,7 +118,7 @@ a:active {
 .poem-container {
 	margin: 20px 50px 20px 50px;
 	background-image: url("stillness.png");
-	width: 650px;
+	width: 500px;
 	height: auto;
 }
 
@@ -129,6 +129,7 @@ a:active {
   align-items: flex-start; /* Align to the top */
   margin: 10px auto; /* Center horizontally */
 }
+
 
 #poems-collection {
 	margin-top: 30px;
