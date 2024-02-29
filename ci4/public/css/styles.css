@@ -122,20 +122,6 @@ a:active {
 	height: auto;
 }
 
-.right-side-poems { 
-    float: right; /* Position the container to the right */
-	background-image: url("stillness.png");
-    width: 650px;   /* Adjust the width as needed */
-	height: auto;
-    margin: 20px 50px 20px 50px; /* Adjust margins as desired */
-}
-
-.poems-flex-container {
-  display: flex; /* Activate Flexbox mode */
-  justify-content: space-between; /* Space items out between the leftmost and rightmost sides */
-  align-items: flex-start; /* Align to the top */
-  margin: 20px auto; /* Center horizontally */
-}
 
 #poems-collection {
 	margin-top: 30px;
