@@ -33,33 +33,30 @@ document.getElementById("greeting").innerHTML = author.helloGreeting();
 </script>
 
 <main class="featured-poem">
-<section id="poems-read">
-<div>
-<h2 class="poem-title" onclick="togglePoem('endlessHorizon')">Endless Horizon</h2>
-<pre class="poem-content" id="endlessHorizonPoemContent">
-Two sad souls played by destiny's cruel game.
-Made it seemed like everything's set to look great on frame.
-Helped both of them create memories that would always remind each other's names.
-Only to wash out every chances, and put out those burning flames. 
+  <section id="poems-read">
+    <div>
+      <h2 class="poem-title" onclick="togglePoem('ifOnly')">If Only</h2>
+      <pre class="poem-content" id="ifOnlyPoemContent" style="display: none">
+I see you, alone and away from the crowd.
+Sadness and emptiness can be heard within you, shouting so loud.
+Unfortunately, no one seems to hear the cries,
+And no one seems to notice the loneliness in your eyes. 
 
-The wind blew them apart, along with the clouds full of memories.
-Fearing that everything would be erased and replaced by harsh realities,
-He decided to write every magic that he thought was only possible in fantasies.
-But it rained on his diary as he writes down the last part, recollecting the torn
-pages within his libraries. 
+If only there was someone there beside you.
+Maybe the world could've turned into a much better view.
+If only you met them much more sooner,
+Then maybe you wouldn't always see yourself as a stranger. 
 
-As he stare and read what he wrote once more,
-He decided to just let destiny win, as the last page he tore.
-The page was brought by the wind to the other side of the shore.
-That's where a woman caught it and was able to read it, dropping with her knees
-on the floor. 
+If only you knew how to be a bit more social,
+Maybe you could've felt it ahead of time, being someone special.
+If only you weren't too silent,
+Maybe you'll have much more cherishable moments. 
 
-"From the stars to the sunset at the horizon, where the sky meets the sea.
-You've somehow resembled everything that I wished to gaze and see,
-But you've always been far away from me. Maybe that's how it's meant to be.
-And that I can only long for you and wait 'til an apple grows in an orange tree."
+Looking back at that time, where it's so dark and foggy,
+Back when I was a nobody in a crowd full of somebody.
+I have so many regrets and ifs that I wish I could've done.
+But, thinking about it, do I really want to change a single one?
       </pre>
     </div>
-	</section>
+  </section>
 </main>
-
