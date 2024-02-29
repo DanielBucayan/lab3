@@ -1,3 +1,4 @@
+<div class ="poems-flex-container">
 <main class="poem-container">
   <section id="poems-read">
     <div>
@@ -27,7 +28,9 @@ Now, because of you, an angel, everything is bright and so heavenly.
     </div>
   </section>
 </main>
+</div>
 
+<div class ="poems-flex-container">
 <main class="poem-container">
   <div>
     <h2 class="poem-title" onclick="togglePoem('silentThoughts')">Silent Thoughts</h2>
@@ -55,7 +58,9 @@ I guess i'll keep holding on for now. Don't worry, i'll be just fine with my sha
     </pre>
   </div>
 </main>
+</div>
 
+<div class ="poems-flex-container">
 <main class="poem-container">
   <div>
     <h2 class="poem-title" onclick="togglePoem('allHadGoneStale')">All Had Gone Stale</h2>
@@ -83,7 +88,9 @@ Just by holding on tightly on the broken memories that brought happiness at firs
     </pre>
   </div>
 </main>
+</div>
 
+<div class ="poems-flex-container">
 <main class="poem-container">
   <div>
     <h2 class="poem-title" onclick="togglePoem('theAuthorBehindTheStory')">The Author Behind The Story</h2>
@@ -110,7 +117,9 @@ Your story's a masterpiece in-the-making, and you're the one holding the pen all
     </pre>
   </div>
 </main>
+</div>
 
+<div class ="poems-flex-container">
 <main class="poem-container">
   <section id="poems-read">
     <div>
@@ -139,7 +148,9 @@ It won't be easy, I know. It's like forgetting how gorgeous always is the sunset
     </div>
   </section>
 </main>
+</div>
 
+<div class ="poems-flex-container">
 <main class="poem-container">
   <section id="poems-read">
     <div>
@@ -170,6 +181,7 @@ And that I can only long for you and wait 'til an apple grows in an orange tree.
     </div>
   </section>
 </main>
+</div>
 
 <script>
   function togglePoem(poemId) {
