@@ -50,9 +50,11 @@ The nights have been incomplete since then, with fewer reasons to smile.
 But I am looking forwards to gaze upon the moonlight, for it will be worthwhile. 
 
 I might not be outside watching you shine, but know that I always think about you.
-I might not hear your whispers and lullabies, but know that it still plays in my mind, too.
+I might not hear your whispers and lullabies, but know that it still plays in my mind, 
+too.
 I might not bear witness to your glory as of now, but know that i'm always cheering.
-I might not be present, but I haven't forgotten the gift that is you, which is worth remembering.
+I might not be present, but I haven't forgotten the gift that is you, which is worth 
+remembering.
 
 </pre>
     </div>
@@ -87,6 +89,36 @@ I guess i'll keep holding on for now. Don't worry, i'll be just fine with my sha
     
     </pre>
   </div>
+</main>
+
+<main class="right-container">
+  <section id="poems-read">
+    <div>
+      <h2 class="poem-title" onclick="togglePoem('black')">Dry Leaves</h2>
+      <pre class="poem-content" id="dryLeavesPoemContent">
+From the roots, it slowly grew.
+Leaves were green, just like how we drew.
+But we stopped at that, the magic went missing.
+The colors turned brown. Everything started fading. 
+
+These dry leaves will soon slowly fall.
+Along with the memories of us all.
+It will experience its one last glide as it slowly approach the ground. 
+It will only be a matter of time when it's not, anymore, around. 
+
+If that happens, you might be watering nothing,
+You'll just waste the tears that would start falling,
+When it needed sunshine, you made everything pitch-black.
+When it needed attention, you just turned your back. 
+
+The tree would be left with only branches alone.
+Showing the supposed future that you could've maybe known.
+Regret would kick in, but it can only do nothing.
+It will suddenly make you wish that you could've done something.
+
+</pre>
+    </div>
+  </section>
 </main>
 </div>
 
