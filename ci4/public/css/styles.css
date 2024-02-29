@@ -98,6 +98,7 @@ a:active {
 	background-image: url("stillness.png");
 	width: auto;
 	height: auto;
+	text-align: center;
 }
 .featured-poem {
 	margin: 20px 50px 20px 50px;
