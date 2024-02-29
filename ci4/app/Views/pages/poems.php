@@ -3,7 +3,7 @@
   <section id="poems-read">
     <div>
       <h2 class="poem-title" onclick="togglePoem('black')">Black</h2>
-      <pre class="poem-content" id="blackPoemContent">
+      <pre class="poem-content" id="blackPoemContent" style="display: none">
 Black, a shade so mysterious.
 It can be something depressing or something gorgeous.
 Depressing as the heart break from someone you really love,
@@ -33,7 +33,7 @@ Now, because of you, an angel, everything is bright and so heavenly.
   <section id="poems-read">
     <div>
       <h2 class="poem-title" onclick="togglePoem('moonlight')">Moonlight</h2>
-      <pre class="poem-content" id="moonlightPoemContent">
+      <pre class="poem-content" id="moonlightPoemContent" style="display: none">
 In the darkest of nights, there will always be lights.
 It may be the city lights, or stars shining so bright.
 But there's one thing that I have missed for quite some time.
@@ -64,10 +64,10 @@ remembering.
 
 <div class ="poems-flex-container">
 <main class="poem-container">
-  <section id="poems-read">
+  <section id="poems-read" >
   <div>
     <h2 class="poem-title" onclick="togglePoem('silentThoughts')">Silent Thoughts</h2>
-    <pre class="poem-content" id="silentThoughtsPoemContent">
+    <pre class="poem-content" id="silentThoughtsPoemContent" style="display: none">
 Staring at the crowd of people around. 
 Observing what makes them happy and sound.
 Trying to mimic the joy etched in their face,
@@ -97,7 +97,7 @@ I guess i'll keep holding on for now. Don't worry, i'll be just fine with my sha
   <section id="poems-read">
     <div>
       <h2 class="poem-title" onclick="togglePoem('dryLeaves')">Dry Leaves</h2>
-      <pre class="poem-content" id="dryLeavesPoemContent">
+      <pre class="poem-content" id="dryLeavesPoemContent" style="display: none">
 From the roots, it slowly grew.
 Leaves were green, just like how we drew.
 But we stopped at that, the magic went missing.
@@ -129,7 +129,7 @@ It will suddenly make you wish that you could've done something.
   <section id="poems-read">
   <div>
     <h2 class="poem-title" onclick="togglePoem('allHadGoneStale')">All Had Gone Stale</h2>
-    <pre class="poem-content" id="allHadGoneStalePoemContent">
+    <pre class="poem-content" id="allHadGoneStalePoemContent" style="display: none">
 Holding on to a piece of memory.
 Like a broken glass, it deeply cut me.
 Even though I'm bleeding and it hurts so bad.
@@ -159,7 +159,7 @@ Just by holding on tightly on the broken memories that brought happiness at firs
   <section id="poems-read">
     <div>
       <h2 class="poem-title" onclick="togglePoem('waningMemories')">Waning Memories</h2>
-      <pre class="poem-content" id="waningMemoriesPoemContent">
+      <pre class="poem-content" id="waningMemoriesPoemContent" style="display: none">
 After a tiring day, I rested in my bed.
 Suddenly, I somehow felt scared.
 Memories just suddenly flooded through my head. 
@@ -206,7 +206,7 @@ And we'll be strangers once again, exhibiting avoidance
   <section id="poems-read">
   <div>
     <h2 class="poem-title" onclick="togglePoem('theAuthorBehindTheStory')">The Author Behind The Story</h2>
-    <pre class="poem-content" id="theAuthorBehindTheStoryPoemContent">
+    <pre class="poem-content" id="theAuthorBehindTheStoryPoemContent" style="display: none">
 It can be tiring to keep dancing all alone.
 It can be exhausting when no one's answering their phones.
 It can be draining to not be able to see what's up ahead,
@@ -235,7 +235,7 @@ Your story's a masterpiece in-the-making, and you're the one holding the pen all
   <section id="poems-read">
   <div>
     <h2 class="poem-title" onclick="togglePoem('aNovelNotSoHappilyEverAfter')">A Novel Not-So-Happily Ever After</h2>
-    <pre class="poem-content" id="aNovelNotSoHappilyEverAfterPoemContent">
+    <pre class="poem-content" id="aNovelNotSoHappilyEverAfterPoemContent" style="display: none">
 Here I go again, trying my best to write and rhyme.
 Counting one to ten, because you've already wasted my time.
 I remember we were writing an original novel of ours,
@@ -273,7 +273,7 @@ you forced our novel to a sudden conclusion.
   <section id="poems-read">
     <div>
       <h2 class="poem-title" onclick="togglePoem('theMeteorsFault')">The Meteor's Fault</h2>
-      <pre class="poem-content" id="theMeteorsFaultPoemContent">
+      <pre class="poem-content" id="theMeteorsFaultPoemContent" style="display: none">
 Laying in the grass, preparing for some late night epiphanies.
 Shrouded by the sunday's mist, thinking about some possible remedies.
 Remedies that I need to lessen the pain in my soul,
@@ -304,7 +304,7 @@ It won't be easy, I know. It's like forgetting how gorgeous always is the sunset
   <section id="poems-read">
     <div>
       <h2 class="poem-title" onclick="togglePoem('endlessHorizon')">Endless Horizon</h2>
-      <pre class="poem-content" id="endlessHorizonPoemContent">
+      <pre class="poem-content" id="endlessHorizonPoemContent" style="display: none">
 Two sad souls played by destiny's cruel game.
 Made it seemed like everything's set to look great on frame.
 Helped both of them create memories that would always remind each other's names.
