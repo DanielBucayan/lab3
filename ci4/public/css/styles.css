@@ -96,7 +96,7 @@ a:active {
 .main-container {
 	margin: 20px 50px 20px 50px;
 	background-image: url("stillness.png");
-	background-size: 200%;
+	background-size: 300%;
 	width: auto;
 	height: auto;
 	text-align: center;
@@ -104,7 +104,7 @@ a:active {
 .featured-poem {
 	margin: 20px 50px 20px 50px;
 	background-image: url("stillness.png");
-	background-size: 200%;
+	background-size: 300%;
 	width: auto;
 	height: auto;
 	text-align: center;
@@ -113,7 +113,7 @@ a:active {
 .second-container {
 	margin: 20px 50px 20px 50px;
 	background-image: url("stillness.png");
-	background-size: 200%;
+	background-size: 300%;
 	width: auto;
 	height: auto;
 }
@@ -121,7 +121,7 @@ a:active {
 .poem-container {
 	margin: 20px 50px 20px 50px;
 	background-image: url("stillness.png");
-	background-size: 200%;
+	background-size: 300%;
 	width: 650px;
 	height: auto;
 }
@@ -130,7 +130,7 @@ a:active {
 	margin: 20px 50px 20px 50px;
 	float: right;
 	background-image: url("stillness.png");
-	background-size: 200%;
+	background-size: 300%;
 	width: 650px;
 	height: auto;
 }
